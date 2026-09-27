@@ -29,9 +29,9 @@ Baqiyyah is more than just an app; it is your daily spiritual companion. Whether
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/wasiwithheart/Baqqiyah/blob/assets/screenshots/home.jpg" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/quran.jpg" width="140">
-  <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/hadeeth.jpg" width="140">
+  <img src="https://github.com/wasiwithheart/Baqiyyah/tree/assets/screenshots/home.jpg" width="140">
+  <img src="https://github.com/wasiwithheart/Baqiyyah/tree/assets/screenshots/quran.jpg" width="140">
+  <img src="https://github.com/wasiwithheart/Baqiyyah/tree/assets/screenshots/hadeeth.jpg" width="140">
   <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/goals.jpg" width="140">
   <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/more.jpg" width="140">
   <img src="https://github.com/ruleno1studio/Baqqiyah/blob/assets/screenshots/feedback.jpg" width="140">
